@@ -1,2 +1,4 @@
-package org.example.webclientproject.service.serviceImp;public class CityServiceImpl {
+package org.example.webclientproject.service.serviceImp;
+
+public class CityServiceImpl {
 }

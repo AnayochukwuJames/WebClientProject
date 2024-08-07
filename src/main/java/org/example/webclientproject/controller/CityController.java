@@ -1,2 +1,4 @@
-package org.example.webclientproject.controller;public class CityController {
+package org.example.webclientproject.controller;
+
+public class CityController {
 }

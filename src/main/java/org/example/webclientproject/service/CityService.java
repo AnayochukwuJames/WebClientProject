@@ -1,2 +1,4 @@
-package org.example.webclientproject.service;public interface CityService {
+package org.example.webclientproject.service;
+
+public interface CityService {
 }
